@@ -1,0 +1,9 @@
+#channels:
+#  - defaults
+#  - conda-forge
+dependencies:
+  - python
+  - astropy
+  - matplotlib
+  - numpy
+  - scipy
